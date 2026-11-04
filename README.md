@@ -15,6 +15,14 @@
 * 💻 I make web apps
 * 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
 
+## 👨‍💻 Hackathon Copa 2026
+
+**DevOps, APIs y Observabilidad**  
+Participante en la 7.ª edición del Hackathon Copa Airlines.  
+📍 Santiago de Veraguas · 8 y 9 de octubre de 2026
+
+🌐 [Sitio del evento](https://hackathoncopa.com/) · 📄 [Ver certificado](./certificados/hackathon-copa-2026.pdf)
+
 ## 🔥 My contribution streak
 
 <p align="center">
@@ -172,7 +180,7 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+1. 🗣 Commented on [#43](https://github.com/alderelian24/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/alderelian24/jct-discord-bot)
 2. 🗣 Commented on [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 3. 🎉 Merged PR [#44](https://github.com/DenverCoder1/jct-discord-bot/pull/44) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
 4. ❗️ Closed issue [#42](https://github.com/DenverCoder1/jct-discord-bot/issues/42) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
@@ -181,6 +189,6 @@
 
 </details>
 -----
-Credits: [DenverCoder1](https://github.com/DenverCoder1)
+Credits: [alderelian24](https://github.com/alderelian24)
 
 Last Edited on: 15/01/2021
