@@ -3,9 +3,9 @@
 <h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Alder</a> - aka alderelian24 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-  <a href="https://twitter.com/DenverCoder1"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/alderelian24?tab=repositories"><img alt="Repositorios públicos" title="Ver mis repositorios en GitHub" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Falderelian24&query=%24.public_repos&label=Repositorios&color=55960c&logo=github&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/alderelian24"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/alderelian24?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/alderelian24"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+  <a href="https://github.com/alderelian24"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=alderelian24&label=Visitas&color=236ad3&style=for-the-badge"/></a>
 </p>
 
 ## 📖 About me
