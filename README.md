@@ -19,7 +19,6 @@
 
 **DevOps, APIs y Observabilidad**  
 Participante en la 7.ª edición del Hackathon Copa Airlines.  
-📍 Santiago de Veraguas · 8 y 9 de octubre de 2026
 
 🌐 [Sitio del evento](https://hackathoncopa.com/) · 📄 [Ver certificado](./certificados/hackathon-copa-2026.pdf)
 
